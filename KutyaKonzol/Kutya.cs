@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KutyaKonzol
 {
-    internal class Kutya
+    public class Kutya
     {
         public DateTime ChipDatum { get; set; }
         public Fajta Fajta { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KutyaKonzol
 {
-    internal class Fajta
+    public class Fajta
     {
         public int FajtaID { get; set; }
         public string FajtaNev { get; set; }

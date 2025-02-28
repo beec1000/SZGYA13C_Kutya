@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KutyaKonzol
 {
-    internal class Gazda
+    public class Gazda
     {
         public int GazdaID { get; set; }
         public string GazdaNev { get; set; }
